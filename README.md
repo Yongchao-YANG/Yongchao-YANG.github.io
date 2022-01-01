@@ -1,4 +1,4 @@
-# Allan Lab Website
+# Dynamics & Intelligent Systems (DIS) Group Website
 
 This is the website of our academic research group at Michigan Techological University.
 
