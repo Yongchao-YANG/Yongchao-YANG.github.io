@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Dynamics & Intelligent Systems (DIS) Group - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Dynamics & Intelligent Systems (DIS) Group at Michigan Technological University."
 sitemap: false
 permalink: /
 ---
