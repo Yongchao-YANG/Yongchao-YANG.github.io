@@ -12,16 +12,18 @@
 - date: September 2021
   headline: Our patent is issued "FULL-FIELD IMAGING LEARNING MACHINE (FILM)" (US Patent Number: 11,127,127)
 
-- date: 28. June 2021
-  headline: Welcome Jinwon!
+#- date: 28. June 2021
+#  headline: Welcome Jinwon!
 
-- date: 16. March 2021
-  headline: "Koen wrote about his research <a href='https://epn.eps.org/wp-content/uploads/2021/04/EPN-52-2.pdf'>in EurophysicsNews</a> (page 12)."
+#- date: 16. March 2021
+#  headline: "Koen wrote about his research <a href='https://epn.eps.org/wp-content/uploads/2021/04/EPN-52-2.pdf'>in EurophysicsNews</a> (page 12)."
 
 - date: 16. February 2021
   headline: "Our paper wins a Best Paper award in the IMAC 2021 of SEM, "Full-Field 3D Experimental Modal Analysis from Dynamic Point Clouds Measured Using a Time-of-Flight Imager" <a href='https://link.springer.com/chapter/10.1007/978-3-030-76335-0_17'>paper</a>. 
-- date: 22. January 2021
-  headline: "<b>Koen wins the Ehrenfest-Afanassjewa prize for best physics thesis of the Netherlands!</b>"
+
+- date: 22. October 2020
+  #headline: "<b>Koen wins the Ehrenfest-Afanassjewa prize for best physics thesis of the Netherlands!</b>"
+  headline: Dr. Yang's team (PI-Dr. Leo Liu) is awarded a research project from Federal Highway Adminstration (FHWA) <a href='https://link.springer.com/chapter/10.1007/978-3-030-76335-0_17'>[News]</a>. to study deep and reinforcement learning for autonomous winter road maintenance decision making. 
 
 - date: 21. January 2021
   headline: "<a href='https://arxiv.org/abs/2101.08535'>New paper on arXiv</a>, on Cooper pairs above Tc"
