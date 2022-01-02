@@ -2,6 +2,9 @@
   headline: "**Our new paper, on Cooper pairs above Tc, is published in [Science](https://www.science.org/doi/10.1126/science.abe3987)**.
   See [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered), [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/)."
 
+- date: November 2021
+  #headline: "<b>Koen wins the Ehrenfest-Afanassjewa prize for best physics thesis of the Netherlands!</b>"
+  headline: Dr. Yang (PI) is awarded a new research project to advance AI-enabled ultrasonics. 
 
 - date: November 2021
   headline: Postdoc Dr. Shanwu Li made a presentation in the Association for the Advancement of Artificial Intelligence (AAAI) 2021 Fall Symposium, "Hierarchical Multi-scale Deep Learning for Super-resolution Ultrasonic Array Imaging". 
@@ -10,7 +13,16 @@
   headline: Postdoc Dr. Homin Song made a presentation in the Association for the Advancement of Artificial Intelligence (AAAI) 2021 Fall Symposium, "A physics-integrated deep learning framework for discovering reduced-order models of nonlinear dynamical systems". 
 
 - date: September 2021
-  headline: Our patent is issued "FULL-FIELD IMAGING LEARNING MACHINE (FILM)" (US Patent Number: 11,127,127)
+  headline: "<b>Our 2nd patent is issued "FULL-FIELD IMAGING LEARNING MACHINE (FILM)" (US Patent Number: 11,127,127).</b> See also our 1st patent: <a href='https://patents.google.com/patent/US10567655B2/en'>Link</a>"
+  
+- date: June 202
+  #headline: "<b>Koen wins the Ehrenfest-Afanassjewa prize for best physics thesis of the Netherlands!</b>"
+  headline: Dr. Yang (PI) is awarded a new research project to develop novel AI controllers.  
+  
+- date: June 2021
+  #headline: "<b>Koen wins the Ehrenfest-Afanassjewa prize for best physics thesis of the Netherlands!</b>"
+  headline: Dr. Yang (Co-PI, PI-Dr. Chang Kyoung Choi) is awarded a new research project from Hyundai. 
+
 
 #- date: 28. June 2021
 #  headline: Welcome Jinwon!
@@ -23,7 +35,7 @@
 
 - date: 22. October 2020
   #headline: "<b>Koen wins the Ehrenfest-Afanassjewa prize for best physics thesis of the Netherlands!</b>"
-  headline: Dr. Yang (Co-PI, PI-Dr. Zhen Liu) is awarded a research project from Federal Highway Adminstration (FHWA) <a href='https://blogs.mtu.edu/icc/2020/10/cees-zhen-liu-is-pi-of-689k-dept-of-transportation-r-d-contract/'>[News]</a>. to explore deep and reinforcement learning for autonomous winter road maintenance decision making. 
+  headline: Dr. Yang (Co-PI, PI-Dr. Zhen Liu) is awarded a new research project from Federal Highway Adminstration (FHWA) <a href='https://blogs.mtu.edu/icc/2020/10/cees-zhen-liu-is-pi-of-689k-dept-of-transportation-r-d-contract/'>[News]</a>. to explore deep and reinforcement learning for autonomous winter road maintenance decision making. 
 
 - date: 21. January 2021
   headline: "<a href='https://arxiv.org/abs/2101.08535'>New paper on arXiv</a>, on Cooper pairs above Tc"
