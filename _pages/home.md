@@ -24,7 +24,7 @@ Welcome to Dr. Yongchao Yang's Dynamics & Intelligent Systems (DIS) Group at Mic
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Deep_Super-resolution_Ultrasonic_Beamforming.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
@@ -75,7 +75,7 @@ We are grateful for funding from our sponsors:
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_anl.jpg" style="width: 120px">
    
  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lanl.png" style="width: 150px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_MichiganTech.png" style="width: 120px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_MichiganTech.png" style="width: 110px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hyundai.png" style="width: 150px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mtrac.jpg" style="width: 180px"> 
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mtrac.jpg" style="width: 210px"> 
 </figure>
