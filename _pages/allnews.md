@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Dynamics & Intelligent Systems (DIS) Group at Michigan Technological University."
 sitemap: false
 permalink: /allnews.html
 ---
