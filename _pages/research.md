@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Dynamics & Intelligent Systems (DIS) Group - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Dynamics & Intelligent Systems (DIS) Group -- Research"
 sitemap: false
 permalink: /research/
 ---
