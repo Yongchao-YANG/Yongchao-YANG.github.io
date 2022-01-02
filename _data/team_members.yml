@@ -10,7 +10,7 @@
   
 
 - name: Shanwu Li
-  photo: Profile_Yang.jpg
+  photo: .jpg
   info: Postdoc, started Nov 2019
   email: sli10@mtu.edu
   number_educ: 2
@@ -18,7 +18,7 @@
   education2: BS, Sichuan University
   
 - name: Homin Song
-  photo: Profile_Yang.jpg
+  photo: .jpg
   info: Postdoc, started Dec 2018 (since at Argonne)
   email: shm3313@gmail.com
   number_educ: 3
@@ -27,7 +27,7 @@
   education3: BS, Hanyang University
 
 - name: Abdolvahhab Rostamijavanani
-  photo: Profile_Yang.jpg
+  photo: .jpg
   info: PhD student, started Jan 2020
   email: arostami@mtu.edu
   number_educ: 2
@@ -35,7 +35,7 @@
   education2: BSc Shiraz (Pahlavi) University
 
 - name: Faraz Abed Azad
-  photo: Profile_Yang.jpg
+  photo: .jpg
   info: PhD student, started Aug 2021
   email: fabedaza@mtu.edu
   number_educ: 2
@@ -43,7 +43,7 @@
   education2: BSc Islamic Azad University Central Tehran Branch
 
 - name: Saleh SOTUBADI
-  photo: Profile_Yang.jpg
+  photo: .jpg
   info: PhD Student, started Aug 2021
   email: svalizad@mtu.edu
   number_educ: 2
