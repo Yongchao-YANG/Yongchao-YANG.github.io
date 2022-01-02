@@ -69,11 +69,11 @@ To this end, we develop novel computational sensing tools and "physics-guided" m
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_darpa.jpeg" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_doe.jpg" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_fhwa.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_fhwa.png" style="width: 180px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_anl.jpg" style="width: 120px">
    
- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lanl.png" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_MichiganTech.png" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hyundai.png" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mtrac.jpg" style="width: 110px"> 
+ <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lanl.png" style="width: 150px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_MichiganTech.png" style="width: 120px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hyundai.png" style="width: 150px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mtrac.jpg" style="width: 160px"> 
 </figure>
