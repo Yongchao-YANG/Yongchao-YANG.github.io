@@ -9,7 +9,7 @@ permalink: /
 <!--Welcome to Our  group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.-->
 Welcome to Dr. Yongchao Yang's Dynamics & Intelligent Systems (DIS) Group at Michigan Technological University. We aim to understand dynamics behaviors of structures and systems and create intelligent engineering systems. Our specific research includes Sensing, Modeling, Analysis, and Control of dynamic structures and systems, spanning the broad areas of system identification & control and experimental & computational mechanics, combining approaches from machine (deep) learning and computer vision with optical and acoustical tools.
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="6000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -58,9 +58,6 @@ Welcome to Dr. Yongchao Yang's Dynamics & Intelligent Systems (DIS) Group at Mic
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-
 
 <!--To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).-->
 
