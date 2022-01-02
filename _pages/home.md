@@ -71,8 +71,9 @@ To this end, we develop novel computational sensing tools and "physics-guided" m
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_doe.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_fhwa.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_anl.png" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lanl.png" style="width: 110px">
+   
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lanl.png" style="width: 110px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_MichiganTech.png" style="width: 110px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hyundai.png" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mtrac.jpg" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mtrac.jpg" style="width: 110px">  -->
 </figure>
