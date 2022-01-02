@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <!--Welcome to Our  group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.-->
-Welcome to Dr. Yongchao Yang's Dynamics & Intelligent Systems (DIS) Group at Michigan Technological University. We aim to understand dynamics behaviors of structures and systems and create intelligent engineering systems. Our specific research includes Sensing, Modeling, Analysis, and Control of dynamic structures and systems, spanning the broad areas of system identification & control and experimental & computational mechanics, combining approaches from machine (deep) learning and computer vision with optical and acoustical tools. Besides,
+Welcome to Dr. Yongchao Yang's Dynamics & Intelligent Systems (DIS) Group at Michigan Technological University. We aim to understand dynamics behaviors of structures and systems and create intelligent engineering systems. Our specific research includes Sensing, Modeling, Analysis, and Control of dynamic structures and systems, spanning the broad areas of system identification & control and experimental & computational mechanics, combining approaches from machine (deep) learning and computer vision with optical and acoustical tools.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
