@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Dynamics & Intelligent Systems (DIS) Group - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
