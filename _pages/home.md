@@ -67,13 +67,13 @@ To this end, we develop novel computational sensing tools and "physics-guided" m
 <!-- We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).-->
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_darpa.jpeg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_doe.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_fhwa.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_anl.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_darpa.jpeg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_doe.jpg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_fhwa.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_anl.jpg" style="width: 120px">
    
-<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lanl.png" style="width: 110px">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lanl.png" style="width: 110px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_MichiganTech.png" style="width: 110px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hyundai.png" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mtrac.jpg" style="width: 110px">  -->
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_mtrac.jpg" style="width: 110px"> 
 </figure>
