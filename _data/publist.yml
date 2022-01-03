@@ -89,6 +89,17 @@
   highlight: 1
   news2:
 
+
+- title: "Efficient full-field vibration measurements and operational modal analysis using neuromorphic event-based imaging"
+  image: retina.jpg
+  description:  This work explores the use of event-based neuromorphic imagers, specifically silicon retinas, an efficient alternative to traditional frame-based video cameras, to perform full-field vibration measurements and operational modal analysis. 
+  authors: C. Dorn, S. Dasari, Y. Yang, C. Farrar, G. Kenyon, P. Welch, D. Mascarenas
+  link:
+    url: https://ascelibrary.org/doi/full/10.1061/%28ASCE%29EM.1943-7889.0001449
+    display: Journal of Engineering Mechanics 144(7), 04018054 (2018)
+  highlight: 1
+  news2:
+  
 - title: "Blind identification of full-field vibration modes from video measurements with phase-based video motion magnification"
   image: full-field.jpg
   description:  We develop a novel full-field imaging method for structural dynamic measurement and modal analysis that alleviate the need of structural surface preparation associated with existing vision-based methods and can be implemented in a relatively efficient and autonomous manner with little user supervision and calibration. 
