@@ -98,6 +98,17 @@
     display: Structural Control and Health Monitoring 26(6), e2358 (2019)
   highlight: 1
   news2:
+  
+  
+- title: "Light Field Imaging of Three-Dimensional Structural Dynamics"
+  image: lightfield.jpg
+  description:  We explore light field imagers - a new camera system that captures the direction light entered the camera - to make depth measurements of scenes and extend modal analysis to three dimensions.
+  authors:  B. Chesebrough, S. Dasari, A. Green, Y. Yang, C. Farrar, D. Mascarenas
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-319-74476-6_15
+    display: Structural Health Monitoring, Photogrammetry & DIC 6, 101-108 (2019)
+  highlight: 1
+  news2:
 
 - title: "Efficient full-field vibration measurements and operational modal analysis using neuromorphic event-based imaging"
   image: retina.jpg
