@@ -1,3 +1,24 @@
+- title: "Hierarchical deep learning for data-driven identification of reduced-order models of nonlinear dynamical systems"
+  image: FRF-NNM.png
+  description: we present a hierarchical deep learning approach for identifying optimal low-order models of nonlinear dynamical systems. It simultaneously identifies the nonlinear normal modal (NNM) subspace with a hierarchical order and the associated nonlinear modal dynamics.
+  authors: S. Li, Y. Yang
+  link:
+    url: https://link.springer.com/article/10.1007/s11071-021-06772-x
+    display: Nonlinear Dynamics 105, 3409–3422 (2021)
+  highlight: 1
+  news2:
+
+- title: "Data-driven identification of nonlinear normal modes via physics-integrated deep learning"
+  image: nnms.png
+  description: we present a new data-driven framework based on physics-integrated deep learning for nonlinear modal identification of unknown nonlinear dynamical systems.
+  authors: S. Li, Y. Yang
+  link:
+    url: https://link.springer.com/article/10.1007/s11071-021-06931-0
+    display: Nonlinear Dynamics 106, 3231–3246 (2021)
+  highlight: 1
+  news2:
+
+
 - title: "Noncontact super-resolution guided wave array imaging of subwavelength defects using a multiscale deep learning approach"
   image: IJSHM.png
   description: we present a non-contact super-resolution guided wave array imaging approach with deep learning to visualize sub-wavelength defects in plate-like structures.
@@ -8,16 +29,16 @@
   highlight: 1
   news2:
 
-
-- title: "Hierarchical deep learning for data-driven identification of reduced-order models of nonlinear dynamical systems"
-  image: FRF-NNM.png
-  description: we present a hierarchical deep learning approach for identifying optimal low-order models of nonlinear dynamical systems. It simultaneously identifies the nonlinear normal modal (NNM) subspace with a hierarchical order and the associated nonlinear modal dynamics.
-  authors: S. Li, Y. Yang
+- title: "Super-resolution visualization of subwavelength defects via deep learning-enhanced ultrasonic beamforming: A proof-of-principle study"
+  image: tsne.png
+  description: we enable super-resolution ultrasonic beamforming that computationally exceeds the diffraction limit and visualizes subwavelength defects.
+  authors: H. Song, Y. Yang
   link:
-    url: https://link.springer.com/article/10.1007/s11071-021-06772-x
-    display: Nonlinear Dynamics 105, 3409–3422 (2021)
+    url: https://www.sciencedirect.com/science/article/pii/S0963869520302164
+    display: Structural Health Monitoring 116, 102344 (2020)
   highlight: 1
   news2:
+
 
 
 #- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
