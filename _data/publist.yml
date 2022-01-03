@@ -1,6 +1,6 @@
 - title: "Noncontact super-resolution guided wave array imaging of subwavelength defects using a multiscale deep learning approach"
   image: IJSHM.png
-  description: we present a non-contact super-resolution guided wave array imaging approach based on deep learning to visualize sub-wavelength defects in plate-like structures.
+  description: we present a non-contact super-resolution guided wave array imaging approach with deep learning to visualize sub-wavelength defects in plate-like structures.
   authors: H. Song, Y. Yang
   link:
     url: https://journals.sagepub.com/doi/full/10.1177/1475921720942958
@@ -9,15 +9,26 @@
   news2:
 
 
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "Hierarchical deep learning for data-driven identification of reduced-order models of nonlinear dynamical systems"
+  image: FRF-NNM.png
+  description: we present a hierarchical deep learning approach for identifying optimal low-order models of nonlinear dynamical systems. It simultaneously identifies the nonlinear normal modal (NNM) subspace with a hierarchical order and the associated nonlinear modal dynamics.
+  authors: S. Li, Y. Yang
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
+    url: https://link.springer.com/article/10.1007/s11071-021-06772-x
+    display: Nonlinear Dynamics 105, 3409–3422 (2021)
   highlight: 1
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+  news2:
+
+
+#- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
+#  image: Pairs3.png
+#  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
+#  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+#  link:
+ #   url: https://www.science.org/doi/10.1126/science.abe3987
+ #   display: Science 374, 608 (2021)
+ # highlight: 1
+#  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
 - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
   image: TBG_SL.png
