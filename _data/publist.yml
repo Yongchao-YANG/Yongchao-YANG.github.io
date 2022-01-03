@@ -44,7 +44,7 @@
   description: we explicitly incorporate the multi-step prediction with error accumulation and an adaptive training strategy into model training to improve long-time prediction of future states of nonlinear dynamics.
   authors: S. Li, Y. Yang
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0022460X2100239X#fig0002
+    url: https://www.sciencedirect.com/science/article/pii/S0022460X2100239X
     display: Journal of Sound and Vibration 506, 116167 (2021)
   highlight: 1
   news2:
