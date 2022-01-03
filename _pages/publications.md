@@ -1,7 +1,7 @@
 ---
-title: "Dynamics & Intelligent Systems Group - Publications"
+title: "Publications - Dynamics & Intelligent Systems Group"
 layout: gridlay
-excerpt: "Dynamics & Intelligent Systems Group -- Publications."
+excerpt: "Publications -- Dynamics & Intelligent Systems Group."
 sitemap: false
 permalink: /publications/
 ---
