@@ -39,7 +39,25 @@
   highlight: 1
   news2:
 
-
+- title: "A recurrent neural network framework with an adaptive training strategy for long-time predictive modeling of nonlinear dynamical systems"
+  image: RNN.png
+  description: we explicitly incorporate the multi-step prediction with error accumulation and an adaptive training strategy into model training to improve long-time prediction of future states of nonlinear dynamics.
+  authors: S. Li, Y. Yang
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022460X2100239X#fig0002
+    display: Journal of Sound and Vibration 506, 116167 (2021)
+  highlight: 1
+  news2:
+  
+  - title: "Affinity propagation clustering of full-field, high-spatial-dimensional measurements for robust output-only modal identification: A proof-of-concept study"
+  image: APC.png
+  description:  We exploit and visualize the spatial, full-field mode shape associated with each candidate mode to distinguish the physical and spurious modes. 
+  authors: Y. Yang, C. Dorn
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022460X20303059
+    display: Journal of Sound and Vibration 483, 115473 (2020)
+  highlight: 1
+  news2:
 
 #- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
 #  image: Pairs3.png
@@ -51,15 +69,7 @@
  # highlight: 1
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
-  link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
-  highlight: 0
-  news2:
+
 
 - title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
   image: TBG_SL.png
