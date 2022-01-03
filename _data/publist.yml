@@ -98,7 +98,15 @@
     display: Structural Control and Health Monitoring 26(6), e2358 (2019)
   highlight: 1
   news2:
-  
+ 
+- title: "Estimation of full-field dynamic strains from digital video measurements of output-only beam structures by video motion processing and modal superposition"
+  image: strain.jpg
+  description:  estimate the full-field (as many measurement points as the pixel number of the video frame on the structure) dynamic strains at high-spatial (pixel)-resolution/density location points from the digital video measurement of output-only vibrating structures.
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2408
+    display: Structural Control and Health Monitoring 26(10), e2408 (2019)
+  highlight: 1
+  news2:
   
 - title: "Light Field Imaging of Three-Dimensional Structural Dynamics"
   image: lightfield.jpg
@@ -119,6 +127,36 @@
     display: Journal of Engineering Mechanics 144(7), 04018054 (2018)
   highlight: 1
   news2:
+
+- title: "Spatiotemporal video-domain high-fidelity simulation and realistic visualization of full-field dynamic responses of structures by a combination of high-spatial-resolution modal model and video motion manipulations"
+  image: simulation.jpg
+  description: We perform spatiotemporal video-domain high-fidelity simulation and realistic visualization of full-field structural dynamics by an innovative combination of the fundamentals of structural dynamic modeling and the advanced video motion manipulation techniques.
+  authors: Y. Yang, C. Dorn, T. Mancini, Z. Talken, G. Kenyon, C. Farrar, D. Mascarenas
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2193
+    display: Structural Control and Health Monitoring 25(8), e2193 (2018)
+  highlight: 1
+  news2:
+
+- title: "Blind identification of full-field vibration modes of output-only structures from uniformly-sampled, possibly temporally-aliased (sub-Nyquist), video measurements"
+  image: subnyquist.jpg
+  description:  This work leverages the spatio-temporal separable modal superposition model to perform vibration measurement at a uniform sampling frequency lower than what is required by the Shannon-Nyquist sampling theorem for output-only modal analysis.
+  authors: Y. Yang, C. Dorn, T. Mancini, Z. Talken, S. Nagarajaiah, G. Kenyon, C. Farrar, D. Mascarenas
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022460X16306897
+    display: Journal of Sound and Vibration 390, 232-256 (2017)
+  highlight: 1
+  news2: See [video extras](https://www.sciencedirect.com/science/article/pii/S0022460X16306897#ec0005)
+
+- title: "Full-field, high-spatial-resolution detection of local structural damage from low-resolution random strain field measurements"
+  image: crackstrain.jpg
+  description:  This study explores the feasibility of an alternative approach to this problem: a computational solution in which a limited set of randomly positioned, low-resolution global strain measurements are used to reconstruct the full-field, high-spatial-resolution, two-dimensional (2D) strain field and rapidly detect local damage. 
+  authors: Y. Yang, P. Sun, S. Nagarajaiah, S. Bachilo, RB Weisman
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022460X17302572
+    display: Journal of Sound and Vibration 399, 75-85 (2017)
+  highlight: 1
+  news2:
   
 - title: "Blind identification of full-field vibration modes from video measurements with phase-based video motion magnification"
   image: full-field.jpg
@@ -128,7 +166,8 @@
     url: https://www.sciencedirect.com/science/article/pii/S0888327016303272
     display: Mechanical Systems and Signal Processing 85, 567-590 (2017)
   highlight: 1
-  news2: see [Researchgate Project](https://www.researchgate.net/project/Full-field-Imaging-and-Modeling-of-Structural-Dynamics-by-Video-Motion-Manipulations), [scope - R&D 100 - Video-Based Dynamic Measurement & Analysis](https://www.youtube.com/watch?v=Khg_k9iRV6U&list=PLDUDFmyKFhnd7OMfpePzJDHraQjSU87Pt&index=23), [R&D 100 Award 2018](https://www.lanl.gov/discover/news-release-archive/2018/November/1119-rd-100-awards.php), [The Best Paper Award of 2015 United Nations International Conference on Sustainable Development, New York](https://www.lanl.gov/discover/news-stories-archive/2015/October/best-paper-award-mascarenas-yang-cattaneo%20.php), [Mary & Richard Mah Publication Award in Engineering Sciences 2018](https://www.lanl.gov/science-innovation/science-highlights/2018/2018-06.php#award-4), 2nd place of 2019 Fedtech, 2nd place of Student Competition in IEEE Resilience Week 2016.
+  news1: see [Researchgate Project](https://www.researchgate.net/project/Full-field-Imaging-and-Modeling-of-Structural-Dynamics-by-Video-Motion-Manipulations), [scope - R&D 100 - Video-Based Dynamic Measurement & Analysis](https://www.youtube.com/watch?v=Khg_k9iRV6U&list=PLDUDFmyKFhnd7OMfpePzJDHraQjSU87Pt&index=23), [R&D 100 Award 2018](https://www.lanl.gov/discover/news-release-archive/2018/November/1119-rd-100-awards.php), [The Best Paper Award of 2015 United Nations International Conference on Sustainable Development, New York](https://www.lanl.gov/discover/news-stories-archive/2015/October/best-paper-award-mascarenas-yang-cattaneo%20.php), [Mary & Richard Mah Publication Award in Engineering Sciences 2018](https://www.lanl.gov/science-innovation/science-highlights/2018/2018-06.php#award-4), 2nd place of 2019 Fedtech, 2nd place of Student Competition in IEEE Resilience Week 2016.
+  news2: See [video extras](https://www.sciencedirect.com/science/article/pii/S0888327016303272#ec0005)
 #- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
 #  image: Pairs3.png
 #  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
