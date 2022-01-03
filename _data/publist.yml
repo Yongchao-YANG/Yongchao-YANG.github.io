@@ -47,7 +47,7 @@
     url: https://www.sciencedirect.com/science/article/pii/S0888327021007081
     display: Mechanical Systems and Signal Processing 166, 108352 (2021)
   highlight: 1
- # news2: [Best Paper award, IMAC 2021 of Society of Experimental Mechanics (SEM)](https://www.linkedin.com/feed/update/urn:li:activity:6763104376635629568/)
+  news2: [Best Paper award, IMAC 2021 of Society of Experimental Mechanics (SEM)](https://www.linkedin.com/feed/update/urn:li:activity:6763104376635629568/)
 
 - title: "A recurrent neural network framework with an adaptive training strategy for long-time predictive modeling of nonlinear dynamical systems"
   image: RNN.png
