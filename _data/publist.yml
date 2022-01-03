@@ -1,3 +1,14 @@
+- title: "Noncontact super-resolution guided wave array imaging of subwavelength defects using a multiscale deep learning approach"
+  image: IJSHM.png
+  description: we present a non-contact super-resolution guided wave array imaging approach based on deep learning to visualize sub-wavelength defects in plate-like structures.
+  authors: H. Song, Y. Yang
+  link:
+    url: https://journals.sagepub.com/doi/full/10.1177/1475921720942958
+    display: Structural Health Monitoring 20(4): 1904-1923 (2021)
+  highlight: 0
+  news2:
+
+
 - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
   image: Pairs3.png
   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
