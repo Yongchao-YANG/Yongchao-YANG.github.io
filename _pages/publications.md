@@ -55,7 +55,7 @@ permalink: /publications/
 ## Patents
 <!--<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)-->
 
-<em>Yang, Y., Kenyon, G., Farrar, C., Mascarenas, D.<em> (2021)<br />Full-Field Imaging Learning Machines (FILM)<br /> US Patent Number: 11,127,127.
+<em>Yang, Y., Kenyon, G., Farrar, C., Mascarenas, D.</em> (2021)<br />Full-Field Imaging Learning Machines (FILM)<br /> US Patent Number: 11,127,127.
  
  <em>Yang, Y., Kenyon, G., Farrar, C., Mascarenas, D.</em> (2020)<br />System and method for automated extraction of high resolution structural dynamics from video<br /> <a href="https://patents.google.com/patent/US10567655B2/en">US Patent 10,567,655</a>.
 
