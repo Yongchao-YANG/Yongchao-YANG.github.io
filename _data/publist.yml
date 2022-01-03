@@ -49,7 +49,7 @@
   highlight: 1
   news2:
   
-  - title: "Affinity propagation clustering of full-field, high-spatial-dimensional measurements for robust output-only modal identification: A proof-of-concept study"
+  - title: "Affinity propagation clustering of full-field, high-spatial-dimensional measurements for robust output-only modal identification A proof-of-concept study"
   image: APC.png
   description:  We exploit and visualize the spatial, full-field mode shape associated with each candidate mode to distinguish the physical and spurious modes. 
   authors: Y. Yang, C. Dorn
