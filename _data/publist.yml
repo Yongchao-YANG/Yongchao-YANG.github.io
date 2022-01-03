@@ -47,7 +47,7 @@
     url: https://www.sciencedirect.com/science/article/pii/S0888327021007081
     display: Mechanical Systems and Signal Processing 166, 108352 (2021)
   highlight: 1
-  news2:
+  news2: [Best Paper award, IMAC 2021 of Society of Experimental Mechanics (SEM)](https://www.linkedin.com/feed/update/urn:li:activity:6763104376635629568/)
 
 - title: "A recurrent neural network framework with an adaptive training strategy for long-time predictive modeling of nonlinear dynamical systems"
   image: RNN.png
@@ -78,7 +78,27 @@
     display: Journal of Sound and Vibration 487, 115586 (2020)
   highlight: 1
   news2:
-  
+
+- title: "CNN-LSTM deep learning architecture for computer vision-based modal frequency detection"
+  image: frequency.jpg
+  description:  we introduce CNN-LSTM deep learning based approach that can serve as a backbone for computer vision-based vibration measurement techniques. 
+  authors: R. Yang, S. Singh, M. Tavakkoli, N. Amiri, Y. Yang, M. Karami, R. Rai
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0888327020302715
+    display: Mechanical Systems and Signal Processing 144, 106885 (2020)
+  highlight: 1
+  news2:
+
+- title: "Blind identification of full-field vibration modes from video measurements with phase-based video motion magnification"
+  image: full-field.jpg
+  description:  We develop a novel full-field imaging method for structural dynamic measurement and modal analysis that alleviate the need of structural surface preparation associated with existing vision-based methods and can be implemented in a relatively efficient and autonomous manner with little user supervision and calibration. 
+  authors: Y. Yang, C. Dorn, T. Mancini, Z. Talken, G. Kenyon, C. Farrar, D. Mascarenas
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0888327016303272
+    display: Mechanical Systems and Signal Processing 85, 567-590 (2017)
+  highlight: 1
+  news2: [scope: R&D 100: Video-Based Dynamic Measurement & Analysis](https://www.youtube.com/watch?v=Khg_k9iRV6U&list=PLDUDFmyKFhnd7OMfpePzJDHraQjSU87Pt&index=23), [R&D 100 Award 2018](https://www.lanl.gov/discover/news-release-archive/2018/November/1119-rd-100-awards.php), [The Best Paper Award of 2015 United Nations International Conference on Sustainable Development,
+New York](https://www.lanl.gov/discover/news-stories-archive/2015/October/best-paper-award-mascarenas-yang-cattaneo%20.php), [Mary & Richard Mah Publication Award in Engineering Sciences 2018](https://www.lanl.gov/science-innovation/science-highlights/2018/2018-06.php#award-4), 2nd place of 2019 Fedtech, 2nd place of Student Competition in IEEE Resilience Week 2016.
 #- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
 #  image: Pairs3.png
 #  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
