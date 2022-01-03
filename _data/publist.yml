@@ -89,6 +89,15 @@
   highlight: 1
   news2:
 
+- title: "Estimation of full-field, full-order experimental modal model of cable vibration from digital video measurements with physics-guided unsupervised machine learning and computer vision"
+  image: cable.jpg
+  description:  This study develops a physics-guided, unsupervised machine learning-based video processing approach that can blindly and efficiently extract the full-field (as many points as the pixel number of the video frame) modal parameters of cable vibration using only the video of an operating (output-only) cable.
+  authors:  Y. Yang, L. Sanchez, H. Zhang, A. Roeder, J. Bowlan, J. Crochet, C. Farrar, D. Mascarenas
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2358
+    display: Structural Control and Health Monitoring 26(6), e2358 (2019)
+  highlight: 1
+  news2:
 
 - title: "Efficient full-field vibration measurements and operational modal analysis using neuromorphic event-based imaging"
   image: retina.jpg
