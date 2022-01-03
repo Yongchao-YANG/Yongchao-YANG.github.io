@@ -38,6 +38,16 @@
     display: NDT & E International 116, 102344 (2020)
   highlight: 1
   news2:
+  
+- title: "3D structural vibration identification from dynamic point clouds"
+  image: 3D.png
+  description:  We identify 3-Dimensional full-field modes of dynamic structures from point cloud data acquired using a commercial, low-cost, time-of-flight imager. 
+  authors: M. Silva, A. Green, J. Morales, P. Meyerhofer, Y. Yang, E. Figueiredoe, J. Costa, D. Mascarenas
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0888327021007081
+    display: Mechanical Systems and Signal Processing 166, 108352 (2021)
+  highlight: 1
+  news2:
 
 - title: "A recurrent neural network framework with an adaptive training strategy for long-time predictive modeling of nonlinear dynamical systems"
   image: RNN.png
@@ -59,6 +69,16 @@
   highlight: 1
   news2:
 
+- title: "Nonnegative matrix factorization-based blind source separation for full-field and high-resolution modal identification from video"
+  image: nonnegative.png
+  description: Our method performs simultaneous processing of all pixel time-series to extract full-field high-resolution mode shapes and other modal parameters. 
+  authors: M. Silva, B. Martinez, E. Figueiredo, J. Costa, Y. Yang, D. Mascarenas
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022460X20304181
+    display: Journal of Sound and Vibration 487, 115586 (2020)
+  highlight: 1
+  news2:
+  
 #- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
 #  image: Pairs3.png
 #  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
