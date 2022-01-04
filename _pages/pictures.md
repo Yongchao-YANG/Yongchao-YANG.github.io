@@ -19,7 +19,7 @@ permalink: /pictures/
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_misc %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -38,7 +38,7 @@ permalink: /pictures/
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
@@ -47,9 +47,9 @@ permalink: /pictures/
 </div>
 {% endif %}
 
-{% if even_odd == 3 %}
+<!--{% if even_odd == 3 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 <p> &nbsp; </p>
 
