@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Pictures - Dynamics & Intelligent Systems Group"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Pictures -- Dynamics & Intelligent Systems Group"
 permalink: /pictures/
 ---
 
