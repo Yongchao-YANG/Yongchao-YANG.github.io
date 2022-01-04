@@ -1,5 +1,5 @@
 ---
-title: "Dynamics & Intelligent Systems (DIS) Group - Team"
+title: "Team - Dynamics & Intelligent Systems (DIS) Group"
 layout: gridlay
 excerpt: "Dynamics & Intelligent Systems (DIS) Group: Team members"
 sitemap: false
