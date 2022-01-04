@@ -89,6 +89,16 @@
   highlight: 1
   news2:
 
+- title: "Blind, simultaneous identification of full-field vibration modes and large rigid-body motion of output-only structures from digital video measurements"
+  image: rigidbody.jpg
+  description: We simultaneously identify (separate) both the subtle, full-field deformation modes and the dominant rigid-body motion from only the video of the vibrating while moving structure. 
+  authors:  Y. Yang, C. Dorn, C. Farrar, D. Mascarenas
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0141029618321370
+    display: Engineering Structures 207, 110183 (2020)
+  highlight: 1
+  news2:
+  
 - title: "Estimation of full-field, full-order experimental modal model of cable vibration from digital video measurements with physics-guided unsupervised machine learning and computer vision"
   image: cable.jpg
   description:  This study develops a physics-guided, unsupervised machine learning-based video processing approach that can blindly and efficiently extract the full-field (as many points as the pixel number of the video frame) modal parameters of cable vibration using only the video of an operating (output-only) cable.
@@ -101,7 +111,7 @@
  
 - title: "Estimation of full-field dynamic strains from digital video measurements of output-only beam structures by video motion processing and modal superposition"
   image: strain.jpg
-  description:  estimate the full-field (as many measurement points as the pixel number of the video frame on the structure) dynamic strains at high-spatial (pixel)-resolution/density location points from the digital video measurement of output-only vibrating structures.
+  description:  We estimate the full-field (as many measurement points as the pixel number of the video frame on the structure) dynamic strains at high-spatial (pixel)-resolution/density location points from the digital video measurement of output-only vibrating structures.
   link:
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2408
     display: Structural Control and Health Monitoring 26(10), e2408 (2019)
@@ -135,6 +145,16 @@
   link:
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2193
     display: Structural Control and Health Monitoring 25(8), e2193 (2018)
+  highlight: 1
+  news2:
+  
+- title: "Reference-free detection of minute, non-visible, damage using full-field, high-resolution mode shapes output-only identified from digital videos of structures"
+  image: damage.jpg
+  description: Using the full-field, very high-resolution mode shape enables detection of minute, non-visible, damage in a global, completely passive sensing manner, which was previously not possible to achieve.
+  authors: Y. Yang, C. Dorn, T. Mancini, Z. Talken, J. Theiler, G. Kenyon, C. Farrar, D. Mascarenas
+  link:
+    url: https://journals.sagepub.com/doi/full/10.1177/1475921717704385
+    display: Structural Health Monitoring 17(3), 514-531 (2018)
   highlight: 1
   news2:
 
