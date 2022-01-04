@@ -1,6 +1,6 @@
-- title: "Hierarchical deep learning for data-driven identification of reduced-order models of nonlinear dynamical systems"
+- title: "Reduced-order modeling of nonlinear dynamical systems"
   image: resFRF-NNM.png
-  description: we present a hierarchical deep learning approach for identifying optimal low-order models of nonlinear dynamical systems. It simultaneously identifies the nonlinear normal modal (NNM) subspace with a hierarchical order and the associated nonlinear modal dynamics.
+  description: Nonlinear systems typically exhibit complex dynamical behaviors, characterizing which has remained a long-standing challenge across science and engineering fields. While normal modal transformation exactly characterizes any linear systems, there exists no such a general mathematical framework for nonlinear dynamical systems. Nonlinear normal modes (NNMs) are natural generalization of the normal modal transformation for nonlinear systems; however, existing research for identifying NNMs has relied on theoretical derivation or numerical computation from the closed-form equation of the system, which is usually unknown. Our research aims to develop physics-integrated deep learning methodology for data-driven identification of characteristics of nonlinear normal modes and generalizing the modal superposition to nonlinear dynamics.
   #authors: S. Li, Y. Yang
   #link:
   #  url: https://link.springer.com/article/10.1007/s11071-021-06772-x
@@ -8,9 +8,9 @@
   highlight: 1
   #news2:
 
-- title: "Data-driven identification of nonlinear normal modes via physics-integrated deep learning"
+- title: "Data-driven identification of nonlinear normal modes"
   image: resnnms.png
-  description: we present a new data-driven framework based on physics-integrated deep learning for nonlinear modal identification of unknown nonlinear dynamical systems.
+  description: Dynamical systems in the real world generally exhibit complex nonlinear phenomena such as frequency-energy dependence and modal interaction. Their accurate modeling and representation typically require high-dimensional models, resulting in great difficulties in analysis and computations. Reduced-order modeling (ROM) aims to alleviate such modeling and computation challenges by identifying reduced-order models (ROMs) that accurately capture the nonlinear dynamics embedded in the original high-dimensional space. Establishing a ROM generally involves two steps - (i) seeking a lower-dimensional subspace spanned by a reduced set of bases for the dynamical system; (ii) formulating the ROM by projecting the full-order model (FOM) onto the subspace. Fundamental challenges in ROM - (c.1) the selected bases are required to result in an optimal lowest-dimensional ROM with high-fidelity reconstruction; (c.2) the determination of the reduced set of bases is required to be efficient; and (c.3) the bases are required to retain the underlying nonlinear dynamics with clear physical interpretations. Our research aims to address these challenges and develop optimally lowest-dimensional ROM for efficient and effective representation of nonlinear dynamical systems.
   #authors: S. Li, Y. Yang
   #link:
   #  url: https://link.springer.com/article/10.1007/s11071-021-06931-0
