@@ -59,19 +59,19 @@ permalink: /pictures/
 </figure> -->
 
 
-## Argonne
+<!--## Argonne-->
 <!--From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
 </figure> -->
 
-## Los Alamos
+<!--## Los Alamos-->
 <!--From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
 </figure> -->
 
-## Rice
+<!--## Rice-->
 <!--From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
