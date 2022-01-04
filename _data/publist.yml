@@ -166,7 +166,7 @@
     url: https://www.sciencedirect.com/science/article/pii/S0022460X16306897
     display: Journal of Sound and Vibration 390, 232-256 (2017)
   highlight: 1
-  news2: See [video extras](https://www.sciencedirect.com/science/article/pii/S0022460X16306897#ec0005)
+  #news2: See [video extras](https://www.sciencedirect.com/science/article/pii/S0022460X16306897#ec0005)
 
 - title: "Full-field, high-spatial-resolution detection of local structural damage from low-resolution random strain field measurements"
   image: crackstrain.jpg
