@@ -1,5 +1,5 @@
 - title: "Reduced-order modeling of nonlinear dynamical systems"
-  image: resFRF-NNM.png
+  image: resFRF.png
   description: Nonlinear systems typically exhibit complex dynamical behaviors, characterizing which has remained a long-standing challenge across science and engineering fields. While normal modal transformation exactly characterizes any linear systems, there exists no such a general mathematical framework for nonlinear dynamical systems. Nonlinear normal modes (NNMs) are natural generalization of the normal modal transformation for nonlinear systems; however, existing research for identifying NNMs has relied on theoretical derivation or numerical computation from the closed-form equation of the system, which is usually unknown. Our research aims to develop physics-integrated deep learning methodology for data-driven identification of characteristics of nonlinear normal modes and generalizing the modal superposition to nonlinear dynamics.
   #authors: S. Li, Y. Yang
   #link:
