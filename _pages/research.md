@@ -31,6 +31,8 @@ Here are some themes and techniques that we currently work on:
   <pubtit class="text-center">{{ proj.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ proj.image }}" class="img-responsive" width="100%" style="float: center" />
   <p>{{ proj.description }}</p>
+  <p class="text-danger"><strong> {{ proj.news1 }}</strong></p>
+  <p> {{ proj.news2 }}</p>
  </div>
 </div>
 
@@ -51,7 +53,7 @@ Here are some themes and techniques that we currently work on:
 <p> &nbsp; </p>
 
 
-## Identification and Predictive modeling of nonlinear dynamical systems
+## Identification & Predictive modeling of nonlinear dynamical systems
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projlist_nnm %}
@@ -68,6 +70,8 @@ Here are some themes and techniques that we currently work on:
   <pubtit class="text-center">{{ proj.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ proj.image }}" class="img-responsive" width="100%" style="float: center" />
   <p>{{ proj.description }}</p>
+  <p class="text-danger"><strong> {{ proj.news1 }}</strong></p>
+  <p> {{ proj.news2 }}</p>
  </div>
 </div>
 
@@ -88,7 +92,7 @@ Here are some themes and techniques that we currently work on:
 <p> &nbsp; </p>
 
 
-## Augmented Reality for visualization and monitoring of dynamic systems
+## Augmented Reality for visualization & monitoring of dynamic systems
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projlist_ar %}
@@ -105,6 +109,8 @@ Here are some themes and techniques that we currently work on:
   <pubtit class="text-center">{{ proj.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ proj.image }}" class="img-responsive" width="100%" style="float: center" />
   <p>{{ proj.description }}</p>
+  <p class="text-danger"><strong> {{ proj.news1 }}</strong></p>
+  <p> {{ proj.news2 }}</p>
  </div>
 </div>
 
@@ -123,6 +129,7 @@ Here are some themes and techniques that we currently work on:
 {% endif %}
 
 <p> &nbsp; </p>
+
 
 
 <!--**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
