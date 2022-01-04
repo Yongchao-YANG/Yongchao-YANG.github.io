@@ -1,5 +1,5 @@
 ---
-title: "Dynamics & Intelligent Systems (DIS) Group - Vacancies"
+title: "Vacancies - Dynamics & Intelligent Systems (DIS) Group"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
