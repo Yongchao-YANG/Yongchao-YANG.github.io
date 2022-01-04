@@ -9,10 +9,10 @@ permalink: /research/
 # Research
 
 {% assign number_printed = 0 %}
-{% for res in site.data.reslist %}
+{% for proj in site.data.projlist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if res.highlight == 1 %}
+{% if proj.highlight == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -21,8 +21,8 @@ permalink: /research/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit class="text-center">{{ res.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ res.image }}" class="img-responsive" width="100%" style="float: center" />
-  <p>{{ res.description }}</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ proj.image }}" class="img-responsive" width="100%" style="float: center" />
+  <p>{{ proj.description }}</p>
  </div>
 </div>
 
