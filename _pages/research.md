@@ -1,7 +1,7 @@
 ---
-title: "Dynamics & Intelligent Systems (DIS) Group - Research"
+title: "Research - Dynamics & Intelligent Systems (DIS) Group"
 layout: textlay
-excerpt: "Dynamics & Intelligent Systems (DIS) Group -- Research"
+excerpt: "Research -- Dynamics & Intelligent Systems (DIS) Group"
 sitemap: false
 permalink: /research/
 ---
