@@ -25,8 +25,9 @@ permalink: /pictures/
 <div class="row">
 {% endif %}
 
-<div class="col-md-4 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<div class="col-md-4">
+<!--<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" /> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
