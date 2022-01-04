@@ -14,7 +14,7 @@ Our goal is to build instruments and develop techniques that enable us to addres
 
 Here are some themes and techniques that we currently work on:
 
-**Computational Sensing of Structural Dynamics.**
+## Computational Sensing of Structural Dynamics:
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projlist_cs %}
@@ -51,7 +51,7 @@ Here are some themes and techniques that we currently work on:
 <p> &nbsp; </p>
 
 
-**Identification and Predictive modeling of nonlinear dynamical systems**
+## Identification and Predictive modeling of nonlinear dynamical systems
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projlist_nnm %}
@@ -88,7 +88,7 @@ Here are some themes and techniques that we currently work on:
 <p> &nbsp; </p>
 
 
-**Augmented Reality for visualization and monitoring of dynamic systems**
+## Augmented Reality for visualization and monitoring of dynamic systems
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projlist_ar %}
