@@ -14,7 +14,7 @@ Our goal is to build instruments and develop techniques that enable us to addres
 
 Here are some themes and techniques that we currently work on:
 
-## Computational Sensing of Structural Dynamics:
+## AI-empowered Computational Sensing of Structural Dynamics:
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projlist_cs %}
