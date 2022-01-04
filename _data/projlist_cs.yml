@@ -6,4 +6,15 @@
   #  url: https://link.springer.com/article/10.1007/s11071-021-06772-x
   #  display: Nonlinear Dynamics 105, 3409–3422 (2021)
   highlight: 1
-  #news2:
+  news2:
+
+- title: "Full-field, high-resolution imaging and analysis of structural dynamics"
+  image: resViDeoMAgic.jpeg
+  description: Engineering structures are typically large-scale and exhibit complex behaviors under dynamic loads from operational environment (e.g., wind and traffic) as well as natural hazards (e.g., earthquakes and hurricanes) and man-made extreme events (e.g., impact and blast). High spatial and temporal resolution structural response (vibration) measurements and modeling are thus required for high-fidelity characterization, analysis, and prediction of the structure’s response. However, it is a significant challenge to obtain high-resolution structural vibration measurements using traditional techniques. For example, the widely-used accelerometers and strain-gauge sensors can only be placed at a limited number of places on the structure, providing low spatial resolution measurements. Laser vibrometers offer high-resolution measurements, but are expensive and make sequential measurements that are time-consuming. On the other hand, photogrammetry using digital video cameras is relatively low-cost, agile, and provide remote, high spatial resolution, simultaneous, measurements where every pixel effectively becomes a measurement point on the structure. We develop a new full-field imaging method to enable the blind extraction and realistic visualization of the full-field, high-resolution, dynamics response of an operating structure from only its digital video measurements under natural white light illuminations using video motion manipulation and unsupervised machine learning techniques. We investigate the feasibility of applying this method to detect minute, non-visible structural damage at a pixel resolution with laboratory experiments and real-world case studies of various engineering structures. We also extend it to 3-dimensional full-field imaging of structural dynamics.
+  #authors: S. Li, Y. Yang
+  #link:
+  #  url: https://link.springer.com/article/10.1007/s11071-021-06772-x
+  #  display: Nonlinear Dynamics 105, 3409–3422 (2021)
+  highlight: 1
+  news1: see [Researchgate Project](https://www.researchgate.net/project/Full-field-Imaging-and-Modeling-of-Structural-Dynamics-by-Video-Motion-Manipulations), [scope - R&D 100 - Video-Based Dynamic Measurement & Analysis](https://www.youtube.com/watch?v=Khg_k9iRV6U&list=PLDUDFmyKFhnd7OMfpePzJDHraQjSU87Pt&index=23), [R&D 100 Award 2018](https://www.lanl.gov/discover/news-release-archive/2018/November/1119-rd-100-awards.php), [The Best Paper Award of 2015 United Nations International Conference on Sustainable Development, New York](https://www.lanl.gov/discover/news-stories-archive/2015/October/best-paper-award-mascarenas-yang-cattaneo%20.php), [Mary & Richard Mah Publication Award in Engineering Sciences 2018](https://www.lanl.gov/science-innovation/science-highlights/2018/2018-06.php#award-4), 2nd place of 2019 Fedtech, 2nd place of Student Competition in IEEE Resilience Week 2016.
+  news2: See [video extras](https://www.sciencedirect.com/science/article/pii/S0888327016303272#ec0005)
