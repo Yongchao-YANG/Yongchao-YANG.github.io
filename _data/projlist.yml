@@ -1,5 +1,5 @@
 - title: "Hierarchical deep learning for data-driven identification of reduced-order models of nonlinear dynamical systems"
-  image: FRF-NNM.png
+  image: resFRF-NNM.png
   description: we present a hierarchical deep learning approach for identifying optimal low-order models of nonlinear dynamical systems. It simultaneously identifies the nonlinear normal modal (NNM) subspace with a hierarchical order and the associated nonlinear modal dynamics.
   #authors: S. Li, Y. Yang
   #link:
