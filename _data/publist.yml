@@ -170,7 +170,7 @@
 
 - title: "Full-field, high-spatial-resolution detection of local structural damage from low-resolution random strain field measurements"
   image: crackstrain.jpg
-  description:  This study explores the feasibility of an alternative approach to this problem: a computational solution in which a limited set of randomly positioned, low-resolution global strain measurements are used to reconstruct the full-field, high-spatial-resolution, two-dimensional (2D) strain field and rapidly detect local damage. 
+  description:  This study explores the feasibility of an alternative approach to this problem - a computational solution in which a limited set of randomly positioned, low-resolution global strain measurements are used to reconstruct the full-field, high-spatial-resolution, two-dimensional (2D) strain field and rapidly detect local damage. 
   authors: Y. Yang, P. Sun, S. Nagarajaiah, S. Bachilo, RB Weisman
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0022460X17302572
