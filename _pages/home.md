@@ -1,5 +1,5 @@
 ---
-title: "Dynamics & Intelligent Systems (DIS) Group - Home"
+title: "Home - Dynamics & Intelligent Systems (DIS) Group"
 layout: homelay
 excerpt: "Dynamics & Intelligent Systems (DIS) Group at Michigan Technological University."
 sitemap: false
