@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and [patents](#Patents) see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=gVH1w4kAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-1776-3306). Some project updates are also at [Researchgate](https://www.researchgate.net/project/Full-field-Imaging-and-Modeling-of-Structural-Dynamics-by-Video-Motion-Manipulations).
+(For a full list of publications and [patents](#patents) see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=gVH1w4kAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-1776-3306). Some project updates are also at [Researchgate](https://www.researchgate.net/project/Full-field-Imaging-and-Modeling-of-Structural-Dynamics-by-Video-Motion-Manipulations).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
