@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Michigan Tech](#michigan-tech), [Argonne](#argonne), [Los Alamos](#los-alamos), [Rice](#rice)
+<!--Jump to: [Michigan Tech](#michigan-tech), [Argonne](#argonne), [Los Alamos](#los-alamos), [Rice](#rice)-->
 
 
 ## Michigan Tech
