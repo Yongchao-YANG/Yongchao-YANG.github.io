@@ -15,6 +15,18 @@
   number_educ: 1
   education1: BS University of Mumbai
 
+- name: Nathan Miller
+  photo: nathan.jpg
+  info: Undergraduate student
+  number_educ: 0
+  education1: 
+  
+- name: William Jenness
+  photo: william.jpg
+  info: Undergraduate student
+  number_educ: 0
+  education1:
+  
 #- name: João van der Ven
 #  photo: rock.jpg
 #  info: BSc student
