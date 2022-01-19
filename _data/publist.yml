@@ -1,3 +1,13 @@
+- title: "Accelerated noncontact guided wave array imaging via sparse array data reconstruction"
+  image: sparse.jpg
+  description: In this paper, we present an accelerated noncontact guided wave array imaging method with sparse scanning measurements at only a small number of points with comparable performance using dense measurements.
+  authors: H. Song, Y. Yang
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0041624X21002870
+    display: Ultrasonics 121, 106672 (2021)
+  highlight: 1
+  news2:
+
 - title: "Hierarchical deep learning for data-driven identification of reduced-order models of nonlinear dynamical systems"
   image: FRF-NNM.png
   description: we present a hierarchical deep learning approach for identifying optimal low-order models of nonlinear dynamical systems. It simultaneously identifies the nonlinear normal modal (NNM) subspace with a hierarchical order and the associated nonlinear modal dynamics.
