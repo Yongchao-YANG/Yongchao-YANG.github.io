@@ -33,11 +33,11 @@
   number_educ: 0
   education1:
   
-- name: Troy Metz
-  photo: troy.jpg
-  info: Undergraduate student
-  number_educ: 0
-  education1:
+#- name: Troy Metz
+#  photo: troy.jpg
+#  info: Undergraduate student
+#  number_educ: 0
+#  education1:
   
 #- name: João van der Ven
 #  photo: rock.jpg
