@@ -26,13 +26,13 @@
   education2: MS, Korea Advanced Institute of Science and Technology (KAIST)
   education3: BS, Hanyang University
 
-- name: Abdolvahhab Rostamijavanani
-  photo: vahhab1.jpg
-  info: PhD student
-  email: arostami@mtu.edu
-  number_educ: 2
-  education1: MS, Amirkabir University of Technology - Tehran Polytechnic
-  education2: BSc Shiraz University
+#- name: Abdolvahhab Rostamijavanani
+#  photo: vahhab1.jpg
+#  info: PhD student
+#  email: arostami@mtu.edu
+#  number_educ: 2
+#  education1: MS, Amirkabir University of Technology - Tehran Polytechnic
+#  education2: BSc Shiraz University
 
 - name: Faraz Abed Azad
   photo: Faraz.jpg
